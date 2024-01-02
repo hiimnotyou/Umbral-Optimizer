@@ -6,42 +6,6 @@ import requests
 import subprocess
 import time
 import ctypes
-# Now its time for the Windows 7 imports (real)
-import math
-import datetime
-import json
-import urllib
-import re
-import collections
-import itertools
-import functools
-import operator
-import string
-import time
-import pathlib
-import gzip
-import zipfile
-import tarfile
-import sqlite3
-import hashlib
-import argparse
-import pickle
-import configparser
-import xml.etree.ElementTree as ET
-import logging
-import socket
-import smtplib
-import http.server
-import urllib.request
-import urllib.parse
-import urllib.error
-import http.client
-import ftplib
-import tkinter
-import threading
-import multiprocessing
-import concurrent.futures
-# Windows 7 imports end here
 
 constants = (57389, 37.393, 6904, 19487, 0.48121)
 
